@@ -156,12 +156,17 @@ ul li a:hover {
 
 #social-links a:hover {
   background: var(--highlight-color);
-  transform: scale(1.1);
+  transform: scale(1.25);
 }
 
 footer {
   text-align: center;
   padding: 24px 0;
+  transition: transform 0.2s;
+}
+
+footer:hover {
+  transform: scale(1.15);
 }
 
 /* media queries - desktop */
