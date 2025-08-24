@@ -34,6 +34,21 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para ser usado como um cartão de visitas online. O projeto conta com um seletor de tema (claro/escuro) que se adapta às preferências do usuário.
 
+## 🎓 Aprendizados
+
+Este foi meu primeiro projeto de estudo utilizando essas tecnologias, e ele me proporcionou uma base sólida nos seguintes conceitos:
+
+- **Estruturação Semântica com HTML:** Utilização de tags como `header`, `main`, e `footer` para criar uma página bem estruturada e acessível.
+- **Estilização com CSS:**
+  - Uso de **Flexbox** para criar layouts flexíveis e alinhados.
+  - Implementação de um seletor de tema (claro/escuro) através de **variáveis CSS** e classes no corpo do documento.
+  - Aplicação de **animações e transições** para uma experiência de usuário mais fluida e agradável.
+- **Manipulação do DOM com JavaScript:**
+  - Seleção de elementos da página.
+  - Adição e remoção de classes para alterar a aparência e o estado dos componentes (como o switch de tema).
+  - Escuta de eventos do usuário, como o clique, para executar funções.
+- **Versionamento com Git e GitHub:** Prática dos comandos básicos do Git e organização do projeto em um repositório no GitHub.
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/ea5k8foRnvNpgiRRcWesZA/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=10-620&t=eQpYimSajMdf1yVp-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
