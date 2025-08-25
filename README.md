@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para ser usado como um cartão de visitas online. O projeto conta com um seletor de tema (claro/escuro) que se adapta às preferências do usuário.
+O DevLinks é um agregador de links para ser usado como um cartão de visitas online. O projeto conta com um seletor de tema (claro/escuro) que se adapta às preferências do usuário, salvando a escolha para visitas futuras.
 
 ## 🎓 Aprendizados
 
@@ -42,11 +42,12 @@ Este foi meu primeiro projeto de estudo utilizando essas tecnologias, e ele me p
 - **Estilização com CSS:**
   - Uso de **Flexbox** para criar layouts flexíveis e alinhados.
   - Implementação de um seletor de tema (claro/escuro) através de **variáveis CSS** e classes no corpo do documento.
-  - Aplicação de **animações e transições** para uma experiência de usuário mais fluida e agradável.
+  - Aplicação de **animações, transições e efeitos de hover dinâmicos** para uma experiência de usuário mais fluida e agradável.
 - **Manipulação do DOM com JavaScript:**
   - Seleção de elementos da página.
   - Adição e remoção de classes para alterar a aparência e o estado dos componentes (como o switch de tema).
   - Escuta de eventos do usuário, como o clique, para executar funções.
+  - **Uso do `localStorage`** para persistir dados no navegador, como a preferência de tema do usuário.
 - **Versionamento com Git e GitHub:** Prática dos comandos básicos do Git e organização do projeto em um repositório no GitHub.
 
 ## 🔖 Layout
