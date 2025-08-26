@@ -62,4 +62,4 @@ Esse projeto está sob a licença MIT.
 
 Feito com ♥ by Márcio Sykes :wave:
 
-<!-- Feito com ♥ por Marcio Sykes 𓅓 -->
+<!-- Feito com ♥ por Marcio Sykes 𓅓𓅓 -->

@@ -30,4 +30,4 @@ function toggleMode() {
 // Executa a função para carregar o tema assim que o script é lido
 loadTheme()
 
-/*<!-- Feito com ♥ por Marcio Sykes 𓅓 -->*/
+/*<!-- Feito com ♥ por Marcio Sykes 𓅓𓅓 -->*/
